@@ -1,16 +1,11 @@
-### Hi there 👋
+<p align="center">
+  <a href="https://emoji.gg/emoji/2194-sasuke-stare"><img src="https://cdn3.emoji.gg/emojis/2194-sasuke-stare.gif" width="64px" height="64px" alt="Sasuke_Stare"></a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=BigBlue+Terminal&weight=500&size=30&pause=100&color=000000&background=FFFFFF00&vCenter=true&repeat=false&width=435&lines=Hi" alt="Maxouny" /></a>
+</p>
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=BigBlue+Terminal&weight=500&size=30&pause=100&color=000000&background=FFFFFF00&vCenter=true&repeat=false&width=435&lines=I%60m+Max+Anoshkin" alt="Max Anoshkin" /></a>
+</p>
 
-<!--
-**Maxouny/Maxouny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![codewars](https://www.codewars.com/users/Maxouny/badges/micro)](https://www.codewars.com/users/Maxouny) 
